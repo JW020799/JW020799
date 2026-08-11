@@ -3,8 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,45:0D47A1,100:1E88E5&height=180&section=header&text=Jeon%20Jiwon&fontColor=FFFFFF&fontSize=48&animation=twinkling&desc=AI%20Service%20Developer%20%7C%20Python%20FastAPI%20Backend&descAlignY=68&descSize=18" />
 </div>
 
-# 👋 Hi, I'm Jeon Jiwon
-
 ### AI Service Developer / Python FastAPI Backend Developer
 
 AI 모델을 단순 호출하는 것보다, 모델 결과를 실제 서비스 데이터와 연결하고 검증 가능한 API 흐름으로 만드는 데 집중하고 있습니다.
