@@ -1,3 +1,4 @@
+<!-- profile-readme-refresh: 2026-08-12 -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,45:0D47A1,100:1E88E5&height=180&section=header&text=Jeon%20Jiwon&fontColor=FFFFFF&fontSize=48&animation=twinkling&desc=AI%20Service%20Developer%20%7C%20Python%20FastAPI%20Backend&descAlignY=68&descSize=18" />
 </div>
