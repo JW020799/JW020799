@@ -40,6 +40,7 @@ FastAPI 기반 백엔드, ChromaDB 기반 RAG, 임베딩 검색, Threshold 평�
 **Links**
 
 - Project Summary: https://github.com/JW020799/tuktak-project-summary
+- AI Service Practice: https://github.com/JW020799/tuktak-ai-service-practice
 - Backend: https://github.com/TUKTAKxAI/TUKTAK_Backend
 - AI Service: https://github.com/TUKTAKxAI/TUKTAK_AI_Service
 - Frontend: https://github.com/TUKTAKxAI/TUKTAK_Frontend
