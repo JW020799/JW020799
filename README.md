@@ -11,33 +11,6 @@ AI 모델을 단순 호출하는 것보다, 모델 결과를 실제 서비스 �
 FastAPI 기반 백엔드, ChromaDB 기반 RAG, 임베딩 검색, Threshold 평가, Docker 기반 실행 환경을 중심으로 프로젝트를 진행했습니다.
 
 ---
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=160&text=Jeon%20Jiwon&animation=twinkling&fontColor=ffffff&fontSize=45" />
-</div>
-
-<h2>🛠️ Tech Stacks</h2>
-
-<div>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white">
-  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=SQLAlchemy&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
-  <br/>
-  <img src="https://img.shields.io/badge/ChromaDB-5B5BD6?style=flat&logoColor=white">
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logoColor=white">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logoColor=white">
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black">
-  <br/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white">
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=Streamlit&logoColor=white">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black">
-  <br/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon%20AWS&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=black">
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=GitHubActions&logoColor=white">
-</div>
 
 ## 👨‍💻 About Me
 
