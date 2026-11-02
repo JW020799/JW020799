@@ -90,15 +90,6 @@ FastAPI 기반 백엔드, ChromaDB 기반 RAG, 임베딩 검색, Threshold 평�
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JW020799&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JW020799&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
 # 🚀 Featured Projects
 
 ## 🏠 TUKTAK
