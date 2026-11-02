@@ -154,6 +154,30 @@ FastAPI 기반 백엔드, ChromaDB 기반 RAG, 임베딩 검색, Threshold 평�
 
 ---
 
+## 💄 nudy
+
+> Final Team Project (6인)  
+> 따라 하고 싶은 화장 사진을 내 맨얼굴에 옮겨 보여 주고, 부위별 화장 가이드와 피드백을 주는 모바일 웹 화장 코치
+
+### 담당 역할
+
+- 화장품 추천 DB 설계 및 구축 (브랜드·제품·호수·계열 4개 테이블, SQLite)
+- seed SQL → build.py → export.py 로 DB를 처음부터 다시 만드는 재현 가능한 구조 구성
+- 화장품 DB를 백엔드에 연결하고 GET /products API 제공
+- 제품 사진 연동 및 nginx 경로 오류(404) 수정
+- Docker 기반 배포와 GitHub Actions 자동 배포 운영
+
+### Tech Stack
+
+`Python` · `FastAPI` · `SQLite` · `Docker` · `GitHub Actions` · `nginx`
+
+### Links
+
+- 🔗 GitHub Repository: https://github.com/1DAN-2ZO/support-yr-makeup
+- 🔗 Demo: https://nudy.shelldocs.cloud
+
+---
+
 ## 📅 GIUT
 
 > Midterm Team Project  
