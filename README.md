@@ -149,7 +149,6 @@ FastAPI 기반 백엔드, ChromaDB 기반 RAG, 임베딩 검색, Threshold 평�
 ### Links
 
 - 🔗 GitHub Repository: https://github.com/1DAN-2ZO/support-yr-makeup
-- 🔗 Demo: https://nudy.shelldocs.cloud
 
 ---
 
