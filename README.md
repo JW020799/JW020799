@@ -101,31 +101,6 @@ FastAPI 기반 백엔드, ChromaDB 기반 RAG, 임베딩 검색, Threshold 평�
 
 # 🚀 Featured Projects
 
-## ⭐ Investment Agent Report
-
-> 개인 프로젝트  
-> 뉴스와 재무 데이터를 기반으로 RAG + LangGraph Agent Workflow 투자 참고 리포트를 생성하는 데모 서비스
-
-### 주요 기능
-
-- Google News RSS 기반 뉴스 수집
-- yfinance 기반 재무 데이터 수집 및 실패 처리
-- Sentence-Transformers 임베딩 생성
-- ChromaDB 기반 RAG 검색
-- LangGraph 기반 Agent Workflow 구성
-- Streamlit UI와 FastAPI API 제공
-- SQLAlchemy 기반 리포트 저장/조회 API 구현
-
-### Tech Stack
-
-`Python` · `FastAPI` · `Streamlit` · `LangGraph` · `ChromaDB` · `Sentence-Transformers` · `SQLAlchemy` · `Docker`
-
-### Links
-
-- 🔗 GitHub Repository: https://github.com/JW020799/investment-agent-report
-
----
-
 ## 🏠 TUKTAK
 
 > Final Team Project  
@@ -175,6 +150,31 @@ FastAPI 기반 백엔드, ChromaDB 기반 RAG, 임베딩 검색, Threshold 평�
 
 - 🔗 GitHub Repository: https://github.com/1DAN-2ZO/support-yr-makeup
 - 🔗 Demo: https://nudy.shelldocs.cloud
+
+---
+
+## ⭐ Investment Agent Report
+
+> 개인 프로젝트  
+> 뉴스와 재무 데이터를 기반으로 RAG + LangGraph Agent Workflow 투자 참고 리포트를 생성하는 데모 서비스
+
+### 주요 기능
+
+- Google News RSS 기반 뉴스 수집
+- yfinance 기반 재무 데이터 수집 및 실패 처리
+- Sentence-Transformers 임베딩 생성
+- ChromaDB 기반 RAG 검색
+- LangGraph 기반 Agent Workflow 구성
+- Streamlit UI와 FastAPI API 제공
+- SQLAlchemy 기반 리포트 저장/조회 API 구현
+
+### Tech Stack
+
+`Python` · `FastAPI` · `Streamlit` · `LangGraph` · `ChromaDB` · `Sentence-Transformers` · `SQLAlchemy` · `Docker`
+
+### Links
+
+- 🔗 GitHub Repository: https://github.com/JW020799/investment-agent-report
 
 ---
 
